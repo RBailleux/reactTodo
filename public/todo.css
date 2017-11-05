@@ -1,0 +1,6 @@
+.todolist li{
+	cursor:pointer;
+}
+.todolist li.complete{
+	text-decoration:line-through;
+}
